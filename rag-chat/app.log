@@ -1,0 +1,21 @@
+2026-06-01 15:35:32,668 - INFO - No device provided, using cpu
+2026-06-01 15:35:33,596 - INFO - Loading SentenceTransformer model from BAAI/bge-large-zh-v1.5.
+2026-06-01 15:37:37,369 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-06-01 15:37:47,946 - INFO - New session created: session-1780299467.946546
+2026-06-01 16:21:29,226 - INFO - No device provided, using cpu
+2026-06-01 16:21:30,996 - INFO - Loading SentenceTransformer model from BAAI/bge-large-zh-v1.5.
+2026-06-01 17:37:32,510 - INFO - No device provided, using cpu
+2026-06-01 17:37:33,425 - INFO - Loading SentenceTransformer model from BAAI/bge-large-zh-v1.5.
+2026-06-01 17:51:46,827 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-06-01 18:26:49,880 - INFO - No device provided, using cpu
+2026-06-01 18:26:50,804 - INFO - Loading SentenceTransformer model from BAAI/bge-large-zh-v1.5.
+2026-06-01 18:43:16,569 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-06-01 18:44:10,522 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-06-01 19:10:50,382 - INFO - No device provided, using cpu
+2026-06-01 19:10:51,292 - INFO - Loading SentenceTransformer model from BAAI/bge-large-zh-v1.5.
+2026-06-01 19:11:29,675 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-06-01 19:11:44,658 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-06-01 19:14:41,166 - INFO - No device provided, using cpu
+2026-06-01 19:14:42,086 - INFO - Loading SentenceTransformer model from BAAI/bge-large-zh-v1.5.
+2026-06-01 19:24:33,530 - INFO - No device provided, using cpu
+2026-06-01 19:24:34,442 - INFO - Loading SentenceTransformer model from BAAI/bge-large-zh-v1.5.
